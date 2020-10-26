@@ -3,7 +3,7 @@ import Hero from "../components/Hero";
 import Banner from "../components/Banner";
 import { Link } from "react-router-dom";
 import RoomContainer from "../components/RoomContainer";
-import { RoomContext } from "../context";
+// import { RoomContext } from "../context";
 
 const Rooms = () => {
 	return (

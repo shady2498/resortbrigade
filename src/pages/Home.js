@@ -4,7 +4,7 @@ import Banner from "../components/Banner";
 import { Link } from "react-router-dom";
 import Service from "../components/Service";
 import FeaturedRooms from "../components/FeaturedRooms";
-import Button from "../components/StyledHero";
+// import Button from "../components/StyledHero";
 
 export default function Home() {
 	return (
